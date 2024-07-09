@@ -12,9 +12,6 @@ The dataset used in this study is sourced from [Kaggle](https://www.kaggle.com/d
   
 Due to the imbalance in the dataset, the Synthetic Minority Over-sampling Technique (SMOTE) is applied to balance the data.
 
-## Previous Work
-Previous research on sentiment analysis of product reviews primarily utilized Naive Bayes and Logistic Regression algorithms. These methods have been effective in classifying sentiment as positive or negative.
-
 ## Results
 The inclusion of SVM in our study provided a comparison of different classification methods. Here are the results:
 
@@ -35,10 +32,3 @@ The authors of this work would like to thank the Department of Informatics, Facu
 
 ## Contributing
 Contributions are welcome! Please create a pull request or open an issue to discuss any changes.
-
-## Contributors
-<a href="https://github.com/nabilland/ice-cream-product-sentiment-analysis/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=nabilland/ice-cream-product-sentiment-analysis" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
