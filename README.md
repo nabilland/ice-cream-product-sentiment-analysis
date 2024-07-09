@@ -31,7 +31,7 @@ The inclusion of SVM in our study provided a comparison of different classificat
 The results indicate that SVM consistently outperformed Naive Bayes and Logistic Regression in both balanced and imbalanced data.
 
 ## Acknowledgements
-The authors of this work would like to thank the Informatics Undergraduate Study Program, Faculty of Information Technology and Data Science, Universitas Sebelas Maret for providing the necessary facilities and resources.
+The authors of this work would like to thank the Department of Informatics, Faculty of Information Technology and Data Science, Universitas Sebelas Maret for providing the necessary facilities and resources. This research was also inspired by the source code repository of [https://github.com/notquarks/sentiment-analysis-customer-review](https://github.com/notquarks/sentiment-analysis-customer-review).
 
 ## Contributing
 Contributions are welcome! Please create a pull request or open an issue to discuss any changes.
