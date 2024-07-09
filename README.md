@@ -1,4 +1,4 @@
-# Sentiment Analysis of Ben & Jerry’s Ice Cream Product Reviews
+# A Sentiment Analysis on Skewed Product Reviews: Ben & Jerry's Ice Cream
 
 This repository contains the source code for the sentiment analysis of Ben & Jerry’s ice cream product reviews. The goal is to understand consumer opinions and improve product offerings by analyzing sentiment from user-generated content.
 
