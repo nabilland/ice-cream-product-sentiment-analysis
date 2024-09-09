@@ -9,21 +9,21 @@ The dataset used in this study is sourced from [Kaggle](https://www.kaggle.com/d
 - Naive Bayes
 - Logistic Regression
 - Support Vector Machine (SVM)
-  
+
 Due to the imbalance in the dataset, the Synthetic Minority Over-sampling Technique (SMOTE) is applied to balance the data.
 
 ## Results
 The inclusion of SVM in our study provided a comparison of different classification methods. Here are the results:
 
 - Before data balancing, the models achieved the following accuracies:
-   - Naive Bayes: 87.14%
-   - Logistic Regression: 93.77%
-   - Support Vector Machine (SVM): 95.23%
-  
+   - Naive Bayes: 88.13%
+   - Logistic Regression: 94.76%
+   - Support Vector Machine (SVM): 96.02%
+
 - After data balancing using SMOTE, the accuracies improved to:
-  - Naive Bayes: 92.57%
-  - Logistic Regression: 94.50%
-  - Support Vector Machine (SVM): 95.36%
+  - Naive Bayes: 93.04%
+  - Logistic Regression: 95.16%
+  - Support Vector Machine (SVM): 95.89%
 
 The results indicate that SVM consistently outperformed Naive Bayes and Logistic Regression in both balanced and imbalanced data.
 
