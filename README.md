@@ -15,8 +15,6 @@ Sentiment analysis of product reviews offers valuable insights into consumer per
 
 The dataset exhibits a significant class imbalance, with substantially more positive than negative reviews. To address this issue, we employed two oversampling techniques: the Synthetic Minority Oversampling Technique (SMOTE) and the Adaptive Synthetic Sampling Approach (ADASYN). Among the models tested, the combination of SVM with ADASYN demonstrated the highest accuracy, suggesting strong potential for robust and efficient performance in imbalanced binary sentiment classification tasks.
 
-(A version of the article with track changes enabled to accommodate the latest revisions)
-
 ---
 
 ## Dataset
