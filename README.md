@@ -15,6 +15,8 @@ Sentiment analysis of product reviews offers valuable insights into consumer per
 
 The dataset exhibits a significant class imbalance, with substantially more positive than negative reviews. To address this issue, we employed two oversampling techniques: the Synthetic Minority Oversampling Technique (SMOTE) and the Adaptive Synthetic Sampling Approach (ADASYN). Among the models tested, the combination of SVM with ADASYN demonstrated the highest accuracy, suggesting strong potential for robust and efficient performance in imbalanced binary sentiment classification tasks.
 
+(A version of the article with track changes enabled to accommodate the latest revisions)
+
 ---
 
 ## Dataset
@@ -22,8 +24,8 @@ The dataset exhibits a significant class imbalance, with substantially more posi
 - Source: Online reviews of Ben & Jerry's ice cream.
 - Sentiment labels: Binary (Positive and Negative).
 - The dataset is highly imbalanced, with a dominant proportion of positive reviews.
-
-Detailed preprocessing steps and class distribution visualization are available in the provided notebook.
+ 
+Detailed preprocessing steps and class distribution visualization are available in the provided notebook. 
 
 ---
 
@@ -55,5 +57,4 @@ Model performance was evaluated before and after oversampling to assess the impa
 - The application of ADASYN generally improved classification performance across all models.
 - The combination of Support Vector Machine and ADASYN yielded the highest accuracy, demonstrating its effectiveness for binary sentiment classification with imbalanced data.
 
-Additionally, a detailed comparison of algorithm performance across the top and bottom five (5) Ben & Jerry’s ice cream products is included. This comparison covers the results from the original dataset and those processed using SMOTE and ADASYN techniques.  
-Results are presented in the accompanying Jupyter notebook.
+Additionally, a detailed comparison of algorithm performance across the top and bottom five (5) Ben & Jerry’s ice cream products is included. This comparison covers the results from the original dataset and those processed using SMOTE and ADASYN techniques. Results are also presented in the accompanying Jupyter notebook. 
